@@ -76,16 +76,16 @@ const desktopModeProps = {
     "Flex12": {
       "callbacks": {}
     },
-    "Flex155": {
-      "callbacks": {}
-    },
-    "Flex156": {
-      "callbacks": {}
-    },
     "Flex13": {
       "callbacks": {}
     },
     "Flex14": {
+      "callbacks": {}
+    },
+    "Flex98": {
+      "callbacks": {}
+    },
+    "Flex1486": {
       "callbacks": {}
     },
     "Flex15": {

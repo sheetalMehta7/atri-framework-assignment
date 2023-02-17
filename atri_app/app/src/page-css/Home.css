@@ -5,13 +5,11 @@ padding-top: 20px;
 padding-bottom: 30px;
 align-items: center;
 justify-content: space-around;
-column-gap: ;
 font-family: DM Sans;
 font-weight: 500;
 width: 1496px;
 font-size: 18px;
 color: #696969;
-box-sizing: content-box;
 }
 .p-Home.Flex2 {
 display: flex;
@@ -31,22 +29,17 @@ width: 357.112px;
 height: 23.200px;
 column-gap: 30px;
 justify-content: space-between;
-font-size: ;
 }
 .p-Home.Flex3 {
 display: flex;
 width: 300.200px;
 height: 42.400px;
 column-gap: 30px;
-font-family: ;
 font-weight: 500;
-font-size: ;
-color: ;
 }
 .p-Home.Flex6 {
 display: flex;
 height: 475.538px;
-row-gap: ;
 box-sizing: content-box;
 justify-content: space-between;
 width: 1496px;
@@ -102,19 +95,19 @@ height: 34px;
 width: 782px;
 column-gap: 60px;
 }
-.p-Home.Flex155 {
+.p-Home.Flex13 {
 display: flex;
 width: 460px;
 height: 34px;
 column-gap: 60px;
 }
-.p-Home.Flex156 {
+.p-Home.Flex14 {
 display: flex;
 width: 262px;
 height: 34px;
 column-gap: 60px;
 }
-.p-Home.Flex13 {
+.p-Home.Flex98 {
 display: flex;
 padding-top: 150px;
 padding-bottom: 100px;
@@ -126,7 +119,7 @@ justify-content: flex-start;
 font-family: DM Sans;
 width: 1496px;
 }
-.p-Home.Flex14 {
+.p-Home.Flex1486 {
 display: flex;
 height: 397.200px;
 width: 1069.200px;
@@ -181,7 +174,6 @@ padding-bottom: 40px;
 flex-direction: column;
 row-gap: 20px;
 align-items: center;
-border-width: ;
 border-radius: 15px;
 border-style: solid;
 border-color: #cecece;
@@ -195,7 +187,6 @@ padding-bottom: 40px;
 flex-direction: column;
 row-gap: 20px;
 align-items: center;
-border-width: ;
 border-radius: 15px;
 border-style: solid;
 border-color: #cecece;
@@ -218,8 +209,6 @@ box-sizing: content-box;
 align-items: flex-start;
 justify-content: center;
 flex-wrap: nowrap;
-max-width: ;
-background-attachment: scroll;
 }
 .p-Home.Flex23 {
 display: flex;
@@ -1029,7 +1018,6 @@ font-weight: 500;
 display: flex;
 width: 95.987px;
 height: 356.400px;
-padding-left: ;
 padding-right: 5px;
 flex-direction: column;
 row-gap: 10px;
@@ -1081,21 +1069,18 @@ font-weight: 500;
 font-size: 18px;
 color: #696969;
 cursor: pointer;
-font-family: ;
 font-weight: 500;
 }
 .p-Home.TextBox3 {
 font-size: 18px;
 color: #696969;
 cursor: pointer;
-font-family: ;
 font-weight: 500;
 }
 .p-Home.TextBox4 {
 cursor: pointer;
 font-size: 18px;
 color: #696969;
-font-family: ;
 font-weight: 500;
 }
 .p-Home.TextBox5 {
@@ -1103,7 +1088,6 @@ cursor: pointer;
 font-size: 18px;
 box-sizing: content-box;
 color: #696969;
-font-family: ;
 font-weight: 500;
 }
 .p-Home.Button1 {
@@ -1158,7 +1142,6 @@ width: 606.200px;
 height: 69.600px;
 font-size: 18px;
 color: #757575;
-font-family: ;
 }
 .p-Home.TextBox6 {
 height: 64.800px;
@@ -1189,7 +1172,6 @@ font-weight: 500;
 text-align: center;
 border-width: 1px;
 border-style: none;
-border-color: ;
 cursor: pointer;
 user-select: none;
 width: 74.738px;
@@ -1233,7 +1215,6 @@ position: relative;
 right: 200px;
 }
 .p-Home.TextBox9 {
-font-size: ;
 height: 27.200px;
 width: 360.612px;
 text-align: center;
@@ -1399,8 +1380,6 @@ border-style: solid;
 border-color: #cccccc;
 cursor: pointer;
 user-select: none;
-width: ;
-height: ;
 box-sizing: content-box;
 outline-style: none;
 font-family: DM Sans;
@@ -1417,13 +1396,9 @@ border-radius: 50px;
 outline: none;
 font-weight: 500;
 text-align: center;
-border-width: ;
 border-style: none;
-border-color: ;
 cursor: pointer;
 user-select: none;
-width: ;
-height: ;
 box-sizing: content-box;
 outline-style: none;
 font-family: DM Sans;
@@ -1434,10 +1409,6 @@ height: 526.862px;
 border-radius: 30px;
 }
 .p-Home.TextBox23 {
-padding-left: ;
-padding-top: ;
-padding-bottom: ;
-padding-right: ;
 width: 350px;
 height: 26.400px;
 font-size: 20px;
@@ -1541,8 +1512,6 @@ outline-style: none;
 font-family: DM Sans;
 }
 .p-Home.TextBox45 {
-width: ;
-height: ;
 font-size: 32px;
 text-align: center;
 font-family: DM Sans;
@@ -1810,9 +1779,7 @@ border-radius: 50px;
 outline: none;
 font-weight: 500;
 text-align: center;
-border-width: ;
 border-style: none;
-border-color: ;
 cursor: pointer;
 user-select: none;
 width: 93.863px;
@@ -2337,7 +2304,6 @@ height: 40.4px;
 height: 23.200px;
 width: 206px;
 color: #000000;
-font-size: ;
 }
 .p-Home.TextBox103 {
 height: 23.200px;
